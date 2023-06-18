@@ -22,11 +22,18 @@ public class EmployeeService {
         return a>b;
     }
 
-    public boolean equ(int a ,int b){
+
+    public boolean equ(int a ,int b ){
         return a>b;
     }
 
-    public boolean matrix(int a ,int b){
+
+
+    public boolean matrixzz(int a ,int b){
+        return a>b;
+    }
+
+    public boolean magic(int a ,int b){
         return a>b;
     }
 
