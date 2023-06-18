@@ -15,6 +15,9 @@ public class EmployeeService {
         return a/b;
     }
 
+    public int rakesh(int a ,int b){
+        return a/b;
+    }
 
 
 }
