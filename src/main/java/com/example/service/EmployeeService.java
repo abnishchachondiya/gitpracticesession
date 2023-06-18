@@ -15,6 +15,8 @@ public class EmployeeService {
         return a/b;
     }
 
-
+public void printXyz(){
+        System.out.println("Hello");
+}
 
 }
