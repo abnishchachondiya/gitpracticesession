@@ -15,6 +15,8 @@ public class EmployeeService {
         return a/b;
     }
 
-
+    public int anshu(int a ,int b){
+        return a/b;
+    }
 
 }
