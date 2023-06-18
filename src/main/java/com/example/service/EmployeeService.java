@@ -18,5 +18,12 @@ public class EmployeeService {
     public boolean equals(int a ,int b){
         return a==b;
     }
+    public boolean equal(int a ,int b){
+        return a>b;
+    }
+
+    public boolean equ(int a ,int b){
+        return a>b;
+    }
 
 }
