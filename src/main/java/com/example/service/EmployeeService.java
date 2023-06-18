@@ -15,11 +15,9 @@ public class EmployeeService {
         return a/b;
     }
 
-    public boolean equals(int a ,int b){
-        return a==b;
-    }
 
-    public boolean matrix(int a ,int b){
+
+    public boolean abhishek(int a ,int b){
         return a>b;
     }
 
