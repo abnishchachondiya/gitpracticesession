@@ -14,7 +14,5 @@ public class EmployeeService {
     public int divide(int a ,int b){
         return a/b;
     }
-    public int add(int a ,int b){
-        return a+b;
-    }
+
 }
